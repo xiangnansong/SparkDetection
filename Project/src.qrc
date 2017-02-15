@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>src/start.png</file>
+        <file>src/check.png</file>
+        <file>src/startP.png</file>
+        <file>src/mask.png</file>
+        <file>src/close.png</file>
+        <file>src/closeC.png</file>
+        <file>src/setting.png</file>
+        <file>src/settingC.png</file>
+        <file>src/table.png</file>
+        <file>src/tableC.png</file>
+        <file>src/home.png</file>
+        <file>src/homeC.png</file>
+        <file>src/green.png</file>
+        <file>src/red.png</file>
+        <file>src/pic.png</file>
+        <file>src/picC.png</file>
+        <file>src/play.png</file>
+        <file>src/playC.png</file>
+        <file>src/trans.png</file>
+        <file>src/fire.png</file>
+        <file>src/time.png</file>
+
+
+    </qresource>
+</RCC>
